@@ -1,7 +1,12 @@
 ### 👋
 
 Начинающий фронтенд разработчик. 
+
+Beginner in front-end. 
+
 Умею JS, HTML, CSS, React. 
+
+
 <!--
 **kseter/kseter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

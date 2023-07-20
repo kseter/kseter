@@ -1,8 +1,6 @@
 ### 👋
 
-Начинающий фронтенд разработчик. Умею JS, HTML, CSS, React. 
-
-Beginner in front-end. JS, HTML, CSS, React.
+Начинающий фронтенд разработчик/Beginner in front-end. Умею JS, HTML, CSS, React. 
 
 
 <!--

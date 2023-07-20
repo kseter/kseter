@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-How to reach me: kse.terekhova@gmail.com
+How to reach me/Контакты: kse.terekhova@gmail.com
+<a href="https://www.linkedin.com/in/ksenia-terekhova-bab675122/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=black&style=social">
+</a>

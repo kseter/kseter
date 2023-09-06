@@ -2,9 +2,7 @@
 
 Фронтенд разработчик | Front-end developer. 
 
-**Мой стек технологий:**
-
-JS, HTML, CSS, React. 
+**Мой стек технологий:** JS, HTML, CSS, React, Nodejs
 
 
 
